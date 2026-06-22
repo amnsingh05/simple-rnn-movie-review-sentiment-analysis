@@ -155,7 +155,7 @@ http://localhost:8501
 
 GitHub: https://github.com/amnsingh05
 
-LinkedIn: https://www.linkedin.com/in/amansingh05
+LinkedIn: https://www.linkedin.com/in/amnsingh0
 
 ---
 
